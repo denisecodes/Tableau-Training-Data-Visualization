@@ -1,9 +1,15 @@
 # Tableau Training Data Visualization
 This repository contains all the data visualizations I made for the course: "Tableau 2022 A-Z: Hands-On Tableau Training for Data Science"
 
+## Section 8: Clusters, Custom Territories, Design Features
+[Click here](https://public.tableau.com/app/profile/denise.chan2035/viz/MarketingKPIsbyRegions/Sheet1?)<br>
+[Click here](https://public.tableau.com/app/profile/denise.chan2035/viz/Comparerevenuebetweenoldandnewexpansions/Sheet3?)<br>
+[Click here](https://public.tableau.com/app/profile/denise.chan2035/viz/Comparerevenuemarketingspendandpopulationbystore/Sheet6?)<br>
+[Click here](https://public.tableau.com/app/profile/denise.chan2035/viz/Comparerevenuebaseonpopulationandmarketingspendbystore/Sheet8?)
+
 ## Section 7: Advanced Data Preparation
-[Click here](https://public.tableau.com/app/profile/denise.chan2035/viz/GlobalCarsSales/Map?publish=yes)<br>
-[Click here](https://public.tableau.com/app/profile/denise.chan2035/viz/RelativeGlobalCarsSalesbyContinentRegion/RelativeCarsSold?publish=yes)
+[Click here](https://public.tableau.com/app/profile/denise.chan2035/viz/GlobalCarsSales/Map?)<br>
+[Click here](https://public.tableau.com/app/profile/denise.chan2035/viz/RelativeGlobalCarsSalesbyContinentRegion/RelativeCarsSold?)
 
 ## Section 6: Table Calcuations, Advanced Dashboards, Storytelling
 [Click here](https://public.tableau.com/app/profile/denise.chan2035/viz/BankStoryline_16782058859190/Story1)
